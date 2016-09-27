@@ -15,6 +15,8 @@ The default mode will load the mirror's standard modules: time, current weather,
 
 But if you say "Look at me!", RFLCT will activate its facial recognition module via built-in web-cam, snap a photo of you, run it against a database of users, and load your custom modules. 
 
+Take a look at our live [demo](https://drive.google.com/drive/my-drive)
+
 ## Team
 
 ![alt-text](https://github.com/ChesterHub/RFLCTT/blob/master/assets/team.png)
